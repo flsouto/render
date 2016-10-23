@@ -1,0 +1,17 @@
+{
+    "name": "flsouto/render",
+    "description": "HTML5 Document boilerplate",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Fabio Souto",
+            "email": "fabiolimasouto@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload" : {
+        "files" : ["render.php"]
+    },
+    "keywords" : ["html5","boilerplate","ui","template"]
+}
